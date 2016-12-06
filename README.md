@@ -1,12 +1,3 @@
-## Installation
-[![NuGet](https://img.shields.io/nuget/v/SmartB.Squirrel.Scripts.svg?style=flat-square)](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
-
-Get the package via [nuget](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
-
-    Install-Package SmartB.Squirrel.Scripts
-    
-:information_source: Make sure that your .csproj name matches your .nuspec name. 
-For example if you have MyProject.csproj you must have MyProject.nuspec in your project's root
 ## What does this script do?
 
 Basically this script is a shortcut for publishing/generating  [Squirrel](https://github.com/Squirrel/Squirrel.Windows) packages.
@@ -17,6 +8,18 @@ Basically this script is a shortcut for publishing/generating  [Squirrel](https:
 1. Open the file explorer with the generated files.
 
 When working with squirrel, this is very time consuming so the script does all this for you automatically.
+
+## Installation
+[![NuGet](https://img.shields.io/nuget/v/SmartB.Squirrel.Scripts.svg?style=flat-square)](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
+
+Get the package via [nuget](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
+
+    Install-Package SmartB.Squirrel.Scripts
+    
+:information_source:** Make sure that your .csproj name matches your .nuspec name. **
+
+
+For example if you have MyProject.csproj you must have MyProject.nuspec in your project's root
 
 ## Usage 
 
