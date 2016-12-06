@@ -1,5 +1,8 @@
 ## What does this script do?
 
+[![NuGet](https://img.shields.io/nuget/v/SmartB.Squirrel.Scripts.svg?style=flat-square)](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
+
+
 Basically this script is a shortcut for publishing/generating  [Squirrel](https://github.com/Squirrel/Squirrel.Windows) packages.
 
 1. Compile the selected project in release mode
@@ -10,6 +13,7 @@ Basically this script is a shortcut for publishing/generating  [Squirrel](https:
 When working with squirrel, this is very time consuming so the script does all this for you automatically.
 
 ## Installation
+
 
 Get the package via [nuget](https://www.nuget.org/packages/SmartB.Squirrel.Scripts)
 
