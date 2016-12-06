@@ -16,7 +16,7 @@ Get the package via [nuget](https://www.nuget.org/packages/SmartB.Squirrel.Scrip
 
     Install-Package SmartB.Squirrel.Scripts
     
-:information_source:** Make sure that your .csproj name matches your .nuspec name. **
+:information_source:**Make sure that your .csproj name matches your .nuspec name.**
 
 
 For example if you have MyProject.csproj you must have MyProject.nuspec in your project's root
